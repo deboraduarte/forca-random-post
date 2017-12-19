@@ -1,0 +1,25 @@
+.post{
+  width: 1060px;
+  height: 1060px;
+}
+.square{
+    width: 1060px;
+    height: 1060px;
+}
+.retangule1{
+  width: 1060px;
+  height: 200px;
+}
+.retangule2{
+  width: 1060px;
+  height: 400px;
+}
+.big{
+  font-size: 100px
+}
+.small{
+  font-size: 20px
+}
+.medium{
+  font-size: 50px
+}
